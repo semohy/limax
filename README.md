@@ -5,5 +5,5 @@ shop\website\module\store\interface\_import\vertical_nav_1.php  (satır:247) // 
 <br /> + view.php renk seçenekleri eski haline revertlendi.
 <br /> + Arama çubuğunda, arama yaparken modal ın arkasında kalan arkaplan , arama çubuğunu kapatıyordu bu problem düzeltildi
 <br />+ Tamamlayıcı ve benzer ürünler slider larındaki ürünlerin incele butonuna, ürüne giden link eklendi
-<br /> + footer daki copyright yazısındaki limaxbilişim yazısına a tag i ile limaxbilisim.com un adresi verildi
+<br /> + footer daki copyright daki limaxbilişim yazısına a tag i ile limaxbilisim.com un adresi verildi
 
