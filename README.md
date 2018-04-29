@@ -1,4 +1,4 @@
-<h1 #29 Nisan 2018</h1>
+<h1> #29 Nisan 2018</h1>
 shop\admin\module\store\back\product\edit1.php (satırlar:42 ve 51-65) //ürün adını  keyword olarak atacak kod eklendi.
 shop\admin\module\store\back\cat\add.php (satýrlar:25 ve 31-45) //kategori adını  keyword olarak atacak kod eklendi.
 shop\website\module\store\interface\_import\vertical_nav_1.php  (satır:247) // verdiği mysql syntax hatası giderildi. 
